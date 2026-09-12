@@ -234,3 +234,6 @@ This repository serves as the official landing page for Cube 2: Sauerbraten. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cube 2: Sauerbraten today!**
+
+---
+**Last updated:** 2026-09-12 16:00:28 UTC
