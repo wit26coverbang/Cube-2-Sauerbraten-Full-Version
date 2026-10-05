@@ -236,4 +236,4 @@ This repository serves as the official landing page for Cube 2: Sauerbraten. The
 **Get the most recent version of Cube 2: Sauerbraten today!**
 
 ---
-**Last updated:** 2026-10-05 01:39:09 UTC
+**Last updated:** 2026-10-05 08:27:27 UTC
